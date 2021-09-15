@@ -1,6 +1,6 @@
 { pkgs }: {
 	deps = [
-    pkgs.jdk8
+		pkgs.jdk8
 		pkgs.gradle
 	];
 }
