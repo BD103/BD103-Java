@@ -1,4 +1,4 @@
-package io.github.bd103.lib;
+package io.github.bd103.lib.shared;
 
 import java.util.HashMap;
 
